@@ -1,2 +1,2 @@
-# FlexNFC
-A flexible NFC tab board
+## FlexNFC
+A flexible NFC board.
